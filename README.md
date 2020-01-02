@@ -1,2 +1,2 @@
-# knitting-logs
+# klog
 Notes about knitting projects
