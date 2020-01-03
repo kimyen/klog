@@ -1,5 +1,5 @@
 ## Materials:
-- 5 skeins of the Wave Wool from We Are Knitters
+- 5-6 skeins of the Wave Wool from We Are Knitters
 - circular knitting needles size US 11
 - tapestry needle
 
@@ -27,3 +27,11 @@
 
 ### Join on the Front
 14. Co the pieces together with the half left on #7. The 2 pieces will overlap in the middle.
+
+### Mid Length Sleeves
+15. Pick up 60 stitches from the armhole 
+16. Knit in stockinette stitch for 35 rows
+17. Next row (36) decrease to 32 stitches
+18. Knit in 2x2 rib stitch to row 55
+19. Cast off
+20. Repeat #15 - #19 for the second sleeve
