@@ -1,6 +1,6 @@
 ## Materials:
 - 5 skeins of the Meri Wool from We Are Knitters
-- circular knitting needles size US 11
+- circular knitting needles size US 10.5
 - tapestry needle
 
 ## Pattern
