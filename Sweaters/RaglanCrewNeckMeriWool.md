@@ -5,13 +5,13 @@
 
 ## Pattern
 
-### The Necklines
+### The Yoke
 0. Co 34 stitches
 Work Row 1 to 48 as follow:
 
 | Row | Techniques | Total Sts. | Back Sts. | Sleeve Sts. x2 | Front Sts. |
 |-----|------------|------------|-----------|----------------|------------|
-| 1 | purl all sts.| 34 | 24 | 4 | 1 x 2|
+| 1 | purl all sts.; place markers after 1 st. (front), 4 sts. (sleeve), 24 sts. (back), 4 sts. (sleeve)| 34 | 24 | 4 | 1 x 2|
 | 2 | knit; increase 8 sts. | 42 | 26 | 6 | 2 x 2 |
 | 3 | knit all sts. |  |  |  |  |
 | 4 | knit; increase 8 sts.; cast on 2 sts., 1 st. on each ends | 52 | 28 | 8 | 4 x 2 |
@@ -60,4 +60,23 @@ Work Row 1 to 48 as follow:
 | 47 | knit all sts. |  |  |  |  |
 | 48 | knit; increase 8 sts. | 216 | 64 | 44 |  |
 
+### Devide for Body and Sleeves
 
+Row 49: Removing markers when you come to them:
+1. Knit 64 sts. (back);
+2. place 44 sts. (sleeves) on waste yarn; 
+3. cast on 8 sts.; place marker in the middle of the 8 sts.;
+Repeat 1-3. 
+
+| Row | Techniques | Total Sts. | Back Sts. | Front Sts. |
+|-----|------------|------------|-----------|------------|
+| 49 | purl all sts.| 144 | 72 | 72|
+
+### Body
+
+Continue knitting until desired length. Add a rib edge if you like. Cast off.
+
+### Sleeve x 2
+
+Place the 44 sts. on waste yarn on to DPN or short circlar needle. Pick up 8 sts. for the armhole and join the round. Total 52 sts.
+Continue knitting until desired length. Add a rib edge if you like. Cast off.
