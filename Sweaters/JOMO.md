@@ -8,9 +8,9 @@
 
 ### Body
 
-0. Co. 80 sts. and join in the round.
+Co. 80 sts. and join in the round.
 
-#### Rib edge
+#### Rib Edge
 
 | Row | Left Back | Left Panel | Front | Right Panel | Right Back |
 |-----|-----------|------------|-------|-------------|------------|
@@ -20,13 +20,13 @@ Row 2-6: continue the rib pattern.
 
 #### Back Hem
 
-Row 7: k16, w&t.
-Row 8: p32, w&t.
-Row 9: k to wrapped st., w&t.
-Row 10: p to wrapped st., w&t.
-Row 11: k to wrapped st., w&t.
-Row 12: p to wrapped st., w&t.
-Row 13: k to end round.
+- Row 7: k16, w&t.
+- Row 8: p32, w&t.
+- Row 9: k to wrapped st., w&t.
+- Row 10: p to wrapped st., w&t.
+- Row 11: k to wrapped st., w&t.
+- Row 12: p to wrapped st., w&t.
+- Row 13: k to end round.
 
 #### Side Panels
 
@@ -64,4 +64,49 @@ Row 36-42: knit
 
 ### Sleeve x2
 
+Co. 16 sts.; join in a round.
 
+#### Rib Edge
+
+- Row 1-10: 1x1 rib 
+- Row 11-12: knit
+
+#### Sleeve Shaping
+
+| Row | Techniques |
+|-----|------------|
+| 13 | k1; m1R; k to last st.; m1L; k1 |
+| 14 | knit |
+| 15 | knit |
+| 16 | knit |
+| 17 | knit |
+| 18 | knit |
+| 19 | knit |
+| 20 | knit |
+| 21 | k1; m1R; k to last st.; m1L; k1 |
+| 22 | knit |
+| 23 | knit |
+| 24 | knit |
+| 25 | knit |
+| 26 | knit |
+| 27 | knit |
+| 28 | knit |
+| 29 | k1; m1R; k to last st.; m1L; k1 |
+| 30 | knit |
+| 31 | knit |
+| 32 | knit |
+| 33 | knit |
+| 34 | knit |
+| 35 | knit |
+| 36 | knit |
+| 37 | k1; m1R; k to last st.; m1L; k1 |
+| 38 | knit |
+| 39 | knit |
+| 40 | knit |
+| 41 | knit |
+| 42 | knit |
+| 43 | knit |
+| 44 | knit |
+| 45 | k1; m1R; k to last st.; m1L; k1 |
+
+Row 46-60: knit.
