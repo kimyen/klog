@@ -60,7 +60,7 @@ Row 16-21: repeat row 1 & 15.
 | 34 | k to marker; sm; | | p2tog; m1L; k37; m1R; ssp; | | sm; k to end. |
 | 35 | k to marker; sm; | | p1; k39; p1; | | sm; k to end. |
 
-Row 36-42: knit
+Row 36-45: knit
 
 ### Sleeve x2
 
