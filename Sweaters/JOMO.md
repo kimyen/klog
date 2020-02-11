@@ -12,9 +12,9 @@
 
 #### Rib edge
 
-| Row | Techniques | Left Back | Front | Right Back |
-|-----|------------|-----------|-------|------------|
-| 1 | (k1, p1)x10; pm; (k1, p1)x4; k2; (p1, k1)x10; p1; k2; (p1, k1)x4; pm; (p1, k1) to last st.; p1 | 20 | 41 | 19 |
+| Row | Left Back | Left Panel | Front | Right Panel | Right Back |
+|-----|-----------|------------|-------|-------------|------------|
+| 1 | (k1, p1)x10; pm; | (k1, p1)x4; | k2; (p1, k1)x10; p1; k2; | (p1, k1)x4; | pm; (p1, k1) to last st.; p1 |
 
 Row 2-6: continue the rib pattern.
 
@@ -30,10 +30,10 @@ Row 13: k to end round.
 
 #### Side Panels
 
-| Row | Techniques |
-|-----|------------|
-| 14 | k to marker; sm; (k1,p1)x4; k2; p1; k19; p1; k2; (p1,k1)x4; sm; k to end. |
-| 15 | k to marker; sm; (p1,k1)x4; k2; p1; k19; p1; k2; (k1,p1)x4; sm; k to end. |
+| Row | Left Back | Left Panel | Front | Right Panel | Right Back |
+|-----|-----------|------------|-------|-------------|------------|
+| 14 | k to marker; sm; | (k1,p1)x4; | k2; p1; k19; p1; k2; | (p1,k1)x4; | sm; k to end. |
+| 15 | k to marker; sm; | (p1,k1)x4; | k2; p1; k19; p1; k2; | (k1,p1)x4; | sm; k to end. |
 
 Row 16-21: repeat row 1 & 15.
 
