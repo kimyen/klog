@@ -80,3 +80,7 @@ Continue knitting until desired length. Add a rib edge if you like. Cast off.
 
 Place the 44 sts. on waste yarn on to DPN or short circlar needle. Pick up 8 sts. for the armhole and join the round. Total 52 sts.
 Continue knitting until desired length. Add a rib edge if you like. Cast off.
+
+### Colar
+
+Pick up 34 sts. from the neck line on 2 sets of needle. Knit 10 rows in rib stitch from the outer needle. Fold over and cast off with the picked up sts. on the inner needle.
