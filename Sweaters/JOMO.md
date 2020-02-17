@@ -112,3 +112,44 @@ Row 46-60: knit.
 
 ### Yoke
 
+#### Setup
+
+On each sleeve, slip 3 sts. on each side of the marker to a holder.
+For the arm hole below, slip sts. to a separated holder.
+
+| Row | Left Back | Arm Hole | Left Sleeve | Front | Arm Hole | Right Sleeve | Right Back |
+|-----|-----------|----------|-------------|-------|----------|--------------|------------|
+| 1 | knit 17 | slip 6 sts.| pm; knit 20; pm | knit 35 | slip 6 sts. | pm; knit 20; pm | knit 16 |
+
+- Row 2: knit
+- Row 3: knit
+
+#### Raglan Descrease
+
+| Row | Left Back | Left Shoulder | Front | Right Shoulder | Right Back |
+|-----|-----------|---------------|-------|----------------|------------|
+| 4 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 5 | knit |
+| 6 | knit |
+| 7 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 8 | knit |
+| 9 | knit |
+| 10 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 11 | knit |
+| 12 | knit |
+| 13 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 14 | knit |
+| 15 | knit |
+| 16 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 17 | knit |
+| 18 | knit |
+| 19 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 20 | knit |
+| 21 | knit |
+| 22 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 23 | knit |
+| 24 | knit |
+| 25 | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to 3 sts. b4 marker; ssk; k1; sm; k1; k2tog | knit to end |
+| 26 | knit |
+| 27 | knit |
+
