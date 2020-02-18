@@ -153,3 +153,24 @@ For the arm hole below, slip sts. to a separated holder.
 | 26 | knit |
 | 27 | knit |
 
+Remove the 2 markers that separated the sleeves and the back.
+
+### Neck
+
+#### Shape Back Neck
+
+- Row 28: knit to marker, w&t.
+- Row 29: purl to marker, w&t.
+- Row 30: k to wrapped st., w&t.
+- Row 31: p to wrapped st., w&t, k to end round.
+
+Remove all markers except the round marking.
+
+#### Set Rib
+
+- Row 32-37: knit in 1x1 rib.
+- Cast off.
+
+### Arm hole
+
+- Finish in kitchener sts.
