@@ -9,13 +9,13 @@
 ## The York
 
 - Cast on 80 sts
-- Row 1-10: knit
-- Row 11: k1 increase 1 -- total 120 sts
-- Row 12-20: knit
+- Row 1-15: knit
+- Row 16: k1 increase 1 -- total 120 sts
+- Row 17-20: knit
 - Row 21: k2 increase 1 -- total 160 sts
-- Row 22-30: knit
-- Row 31: k3 increase 1 -- total 200 sts
-- Row 32-40: knit
+- Row 22-25: knit
+- Row 26: k3 increase 1 -- total 200 sts
+- Row 27-30: knit
 
 ## Divide 
 
@@ -35,5 +35,22 @@ There should be 144 sts on needle.
 
 ## Sleeves 
 
+- Pick up 8 sts.
+- Row 31-40: knit
+- Row 41: decrease 1, knit
+- Row 42-45: knit
+- Row 46: decrease 1, knit
+- Row 47-50: knit
+- Row 51: decrease 1, knit
+- Row 52-55: knit
+- Row 56: decrease 1, knit
+- Row 57-60: knit
+- Row 61: decrease 1, knit
+- Row 62-65: knit
+- Row 66: decrease 1, knit
+- Row 67-70: knit
+- Row 71: decrease 1, knit
+- Row 72-75: knit
+- Row 76: decrease 1, knit
 - Knit to desire length, remember to keep row count to knit the 2nd sleeve.
 - Cast off.
